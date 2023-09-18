@@ -1,5 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
+
 html, body {
   width: 100%;
   height: 100%;
